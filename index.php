@@ -9,3 +9,4 @@
     <h1>Hello Wordld!</h1>
 </body>
 </html>
+git remote set-url origin https://github.com/Mame-privet/phptest.git
